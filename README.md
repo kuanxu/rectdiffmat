@@ -1,0 +1,4 @@
+rectdiffmat
+===========
+
+rectangular differentiation matrix
